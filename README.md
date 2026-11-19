@@ -22,6 +22,8 @@ The existing [Electronics Bench Testing project](https://github.com/Open-Energy-
 
 Suggestions for feasible experiments, industrial testing methods, instrumentation, relevant literature and improvements to the methodology are welcome. Please use the [issue tracker](https://github.com/Open-Energy-Methods/OPEP/issues) or see [contribution guidance](CONTRIBUTING.md).
 
+Practical contributions to designs, experiments, models, software and documentation are also welcome. Please discuss the proposed work and obtain the maintainer's agreement in an issue before developing changes intended for OPEP. Agreed changes can be submitted as pull requests for review; inclusion in the project is at the maintainer's discretion.
+
 The intention is to make original engineering designs, calculations, procedures, software and resulting datasets freely accessible, where licensing, safety and facility permissions permit. Applicable licences will be specified for released materials. Third-party material is not automatically covered.
 
 ## Working research proposal
