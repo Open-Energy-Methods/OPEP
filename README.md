@@ -6,7 +6,9 @@ This is an independent engineering hobby project undertaken in my spare time. Th
 
 ## Initial scope
 
-The first investigations will consider dimensional and assembly repeatability, structural compliance and electrothermal response. Further candidate areas include electronics and instrumentation, manufacturing, fluid mechanics and fan performance, control systems, vibration, acoustics, environmental sensitivity and diagnostics.
+The initial work focuses on electronic component heating and cooling, electrical and thermal instrumentation, measurement uncertainty, precision fixture manufacturing, prototype inspection, assembly repeatability, numerical verification and independent experimental validation.
+
+Structural mechanics, fluid mechanics, turbomachinery and gas-turbine-related modelling, controls, vibration, acoustics, environmental and reliability studies, diagnostics and digital twins are possible future extensions, not current deliverables. Actual gas turbine operation and combustion testing are outside the current scope.
 
 The scope is preliminary. Investigations depend on access to suitable equipment, instruments, materials, funding, technical expertise and workshop permissions. Where essential resources cannot reasonably be secured, the method may be modified, or the investigation deferred or excluded. The reasons will be documented.
 
@@ -28,10 +30,10 @@ The intention is to make original engineering designs, calculations, procedures,
 
 ## Working research proposal
 
-*Development of a Modular Experimental Platform for Multidisciplinary Engineering Research*, revision 0.2 (19 November 2026).
+*Development of a Modular Experimental Test Platform*, revision 0.3 (19 November 2026).
 
-- [LaTeX source](docs/proposal/OPEP_Research_Proposal_v0.2.tex)
-- [PDF](docs/proposal/OPEP_Research_Proposal_v0.2.pdf) (generated when the [proposal build](https://github.com/Open-Energy-Methods/OPEP/actions/workflows/proposal-pdf.yml) succeeds)
+- [LaTeX source](docs/proposal/OPEP_Research_Proposal_v0.3.tex)
+- [PDF](docs/proposal/OPEP_Research_Proposal_v0.3.pdf) (generated when the [proposal build](https://github.com/Open-Energy-Methods/OPEP/actions/workflows/proposal-pdf.yml) succeeds)
 - [Submit technical feedback](https://github.com/Open-Energy-Methods/OPEP/issues)
 
-Revision 0.2 clarifies that the programme is a spare-time hobby project with no fixed schedule or completion deadline, and adds the public issue tracker as a feedback route. The scientific scope remains preliminary.
+Revision 0.3 narrows the initial scope to electrothermal measurements, precision manufacturing and quantitative validation. Other investigations are optional future extensions. The earlier revision 0.2 is preserved under `docs/proposal/` for reference.
