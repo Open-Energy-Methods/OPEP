@@ -36,4 +36,5 @@ jobs:
           git add docs/proposal/OPEP_Research_Proposal_v0.2.pdf
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "Build OPEP proposal PDF revision 0.2"
+          git pull --rebase origin main
           git push origin HEAD:main
