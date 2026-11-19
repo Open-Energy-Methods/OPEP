@@ -24,4 +24,12 @@ Suggestions for feasible experiments, industrial testing methods, instrumentatio
 
 The intention is to make original engineering designs, calculations, procedures, software and resulting datasets freely accessible, where licensing, safety and facility permissions permit. Applicable licences will be specified for released materials. Third-party material is not automatically covered.
 
-A short working research proposal has been prepared for technical discussion; the repository copy is not yet uploaded.
+## Working research proposal
+
+*Development of a Modular Experimental Platform for Multidisciplinary Engineering Research*, revision 0.2 (19 November 2026).
+
+- [LaTeX source](docs/proposal/OPEP_Research_Proposal_v0.2.tex)
+- [PDF](docs/proposal/OPEP_Research_Proposal_v0.2.pdf) (generated when the [proposal build](https://github.com/Open-Energy-Methods/OPEP/actions/workflows/proposal-pdf.yml) succeeds)
+- [Submit technical feedback](https://github.com/Open-Energy-Methods/OPEP/issues)
+
+Revision 0.2 clarifies that the programme is a spare-time hobby project with no fixed schedule or completion deadline, and adds the public issue tracker as a feedback route. The scientific scope remains preliminary.
