@@ -28,6 +28,12 @@ Practical contributions to designs, experiments, models, software and documentat
 
 The intention is to make original engineering designs, calculations, procedures, software and resulting datasets freely accessible, where licensing, safety and facility permissions permit. Applicable licences will be specified for released materials. Third-party material is not automatically covered.
 
+## Preliminary TES research scoping
+
+A possible new physical research direction is being investigated: a low-cost solid sensible-heat thermal energy storage module with measured charging, standby and eventual useful discharge, uncertainty-aware modelling and independent experimental validation. This is **a scoped option, not an approved test plan or demonstrated result**. It does not replace the independently preserved Electronics Bench Testing programme.
+
+- [TES-001: research questions, selected literature, conceptual apparatus, validation gates and unresolved dependencies](docs/research/TES-001_scoping_literature_v0.1.md)
+
 ## Working research proposal
 
 *Development of a Modular Experimental Test Platform*, revision 0.4 (19 November 2026).
